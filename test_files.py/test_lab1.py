@@ -7,7 +7,7 @@ from lab1_concat import concat
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(concat("pluh", "bruh"), "pluh bruh")
         self.assertEqual(concat("brisket", "dumpling"), "brisket dumpling")
         self.assertEqual(concat("hello", "world"), "hello world")

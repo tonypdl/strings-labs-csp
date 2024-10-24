@@ -8,7 +8,7 @@ from lab4_name_format import last_first
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(
 
         

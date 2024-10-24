@@ -7,7 +7,7 @@ from lab7_reverse_string import reverse_string
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(
 
         

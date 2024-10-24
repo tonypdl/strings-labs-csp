@@ -7,7 +7,7 @@ from lab2_letterr import letterr
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(letterr("pluh"), "First letter is p and last letter is h")
         self.assertEqual(letterr("brisket"), "First letter is b and last letter is t")
         self.assertEqual(letterr("hello"), "First letter is h and last letter is o")

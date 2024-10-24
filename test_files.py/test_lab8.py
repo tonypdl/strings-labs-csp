@@ -7,7 +7,7 @@ from lab8_count_words import count_words
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(
 
         

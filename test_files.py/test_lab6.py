@@ -7,7 +7,7 @@ from lab6_count_vowels import count_vowels
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(
         
 

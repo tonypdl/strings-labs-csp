@@ -7,7 +7,7 @@ from lab5_replaceString import replaceString
 
 class TestLab1(unittest.TestCase):
 
-    def test_leapYear(self):
+    def test(self):
         self.assertEqual(
 
         
