@@ -25,7 +25,6 @@ substring("COMPUTER SCIENCE IS THE BEST!", 9, 12)  # returns "SCI"
 
 
 
-
 """
 ++++++++++++++++++++
 don't code below here

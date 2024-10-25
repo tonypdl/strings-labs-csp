@@ -25,8 +25,6 @@ count_vowels("Python")  # returns 1
 
 
 
-
-
 """
 ++++++++++++++++++++
 don't code below here
